@@ -11,7 +11,8 @@
 - **Database Technologies:** SQL Server, Microsoft Dataverse, SharePoint  
 - **Data Science & Analytics:** Logistic Regression, Random Forest, XGBoost, CHAID, Decision Trees  
 - **ETL & Data Integration:** SSIS, Power Automate, APIs  
-- **Data Visualization Tools:** Power BI, Tableau, R  
+- **Data Visualization Tools:** Power BI, Tableau, R 
+- **Power Apps:** Canvas App, Model-Driven App 
 
 ---
 
