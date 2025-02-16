@@ -31,7 +31,7 @@ Time Series & Forecasting(ARIMA, Exponential Smoothing, Multiple Regression)and 
 
 #### **Port Authority - University of New Haven, Connecticut**
 
-####**Tunnels and Bridges Traffic Analysis (January 2025 – Present)**  
+#### **Tunnels and Bridges Traffic Analysis (January 2025 – Present)**  
 
 - Designing and implementing an ETL pipeline using SSIS to integrate Microsoft Access datasets into SQL Server, ensuring efficient data processing and accessibility.  
 - Developing predictive models in Python, including Multiple Linear Regression (MLR) for traffic impact analysis, Random Forest for toll violation prediction, and ARIMA for time series forecasting, to support data-driven decision-making.  
