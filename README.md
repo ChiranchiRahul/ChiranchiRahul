@@ -41,6 +41,7 @@ Time Series & Forecasting(ARIMA, Exponential Smoothing, Multiple Regression)and 
 
 
 
+
 ### **Corpay – University of New Haven, Connecticut**
 
 #### **Cross-Sell Programs Account Monitoring (Aug 2024 – Dec 2024)**  
