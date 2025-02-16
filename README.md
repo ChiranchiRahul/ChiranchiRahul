@@ -9,7 +9,8 @@
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, R, SQL, ASP.Net, C#, JavaScript  
 - **Database Technologies:** SQL Server, Microsoft Dataverse, SharePoint  
-- **Data Science & Analytics:** Logistic Regression, Random Forest, XGBoost, CHAID, Decision Trees  
+- **Data Science & Analytics:** Predictive Modeling(Logistic Regression, Random Forest, XGBoost, CHAID, Decision Trees, KNN, Naïve Bayes),
+Time Series & Forecasting(ARIMA, Exponential Smoothing, Multiple Regression)and AutoML(Azure AutoML Studio, Google Vertex AI, Vertex AutoML Vision)
 - **ETL & Data Integration:** SSIS, Power Automate, APIs  
 - **Data Visualization Tools:** Power BI, Tableau, R 
 - **Power Apps:** Canvas App, Model-Driven App 
@@ -27,6 +28,18 @@
 ---
 
 ## 📊 Industry Projects
+
+#### **Port Authority - University of New Haven, Connecticut**
+
+####**Tunnels and Bridges Traffic Analysis (January 2025 – Present)**  
+
+- Designing and implementing an ETL pipeline using SSIS to integrate Microsoft Access datasets into SQL Server, ensuring efficient data processing and accessibility.  
+- Developing predictive models in Python, including Multiple Linear Regression (MLR) for traffic impact analysis, Random Forest for toll violation prediction, and ARIMA for time series forecasting, to support data-driven decision-making.  
+- Planning interactive **Power BI dashboards** to visualize real-time traffic trends, congestion patterns, and toll violation analytics across the Holland Tunnel, George Washington Bridge, and Lincoln Tunnel.
+- Leveraging Azure AutoML for automated feature selection, model optimization, and hyperparameter tuning to improve predictive accuracy.
+- Engaging with stakeholders to derive actionable insights, supporting infrastructure planning and traffic mitigation strategies
+
+
 
 ### **Corpay – University of New Haven, Connecticut**
 
