@@ -29,7 +29,7 @@ Time Series & Forecasting(ARIMA, Exponential Smoothing, Multiple Regression)and 
 
 ## 📊 Industry Projects
 
-#### **Port Authority - University of New Haven, Connecticut**
+### **Port Authority - University of New Haven, Connecticut**
 
 #### **Tunnels and Bridges Traffic Analysis (January 2025 – Present)**  
 
