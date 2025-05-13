@@ -33,7 +33,7 @@
 
 ## 📊 Industry Projects
 
-### **Port Authority – University of New Haven, Connecticut**
+### **Confidential Metropolitan Traffic Authority – University of New Haven, Connecticut**
 #### *Tunnels and Bridges Traffic Analysis (Jan 2025 – May 2025)*
 - Engineered ETL workflows using SSIS to integrate over 5 million records from Microsoft Access into SQL Server, enhancing data availability by 30%.
 - Built machine learning models in Python (Multiple Linear Regression, Random Forest) to forecast traffic volume and toll violations with 97% accuracy.
@@ -42,7 +42,7 @@
 -	Translated stakeholder requirements and model outputs into 5+ strategic recommendations for infrastructure planning and traffic policy revisions.
 
 
-### **Corpay – University of New Haven, Connecticut**
+### **Confidential Fintech Client – University of New Haven, Connecticut**
 #### *Cross-Sell Programs Account Monitoring (Aug 2024 – Dec 2024)*
 -	Constructed a scalable SQL Server data architecture with 20+ entities, processing 2B+ records via SSIS pipelines to support downstream analytics and KPI tracking.
 -	Applied Logistic Regression and XGBoost models in R to predict customer engagement, boosting enrollments by 12% and identifying 3 risk clusters that enhanced targeting precision by 25%.
