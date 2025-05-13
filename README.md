@@ -15,7 +15,7 @@
 - **ETL Tools:** SSIS, Power Automate, APIs  
 - **Data Visualization:** Power BI, Tableau, R  
 - **Power Platform:** Canvas Apps, Model-Driven Apps  
-- **Development Environments:** VS Code, Visual Studio, Jupyter Notebook, RStudio  
+- **Development Environments:** VS Code, Visual Studio, Jupyter Notebook, RStudio, Google Colab 
 - **Productivity & Collaboration:** Excel, PowerPoint, MS Word, Outlook, MS Teams, Jira  
  
 
