@@ -8,15 +8,15 @@
 
 ## 🛠️ Technical Skills  
 - **Programming Languages:** Python, R, SQL, DAX, Power Fx
-- **Databases:** SQL Server, Microsoft Dataverse, SharePoint, Microsoft Access Database, BigQuery  
+- **Databases:** Snowflake, SQL Server, Microsoft Dataverse, SharePoint, Microsoft Access Database, BigQuery  
 - **Cloud Platforms:** Microsoft Azure, Google Cloud Platform  
 - **Machine Learning & Predictive Modeling:** Logistic Regression, Random Forest, XGBoost, CHAID, Decision Trees, KNN, Naïve Bayes, ARIMA, Exponential Smoothing, Multiple Regression  
-- **AutoML & AI:** Azure AutoML, Google Vertex AI, Vertex AutoML Vision  
-- **ETL Tools:** SSIS, Power Automate, APIs  
+- **AutoML & AI:** Azure AutoML, Google Vertex AI, Vertex AutoML Vision, Cortex AI, Microsoft Copilot  
+- **ETL Tools:** SSIS, Power Automate, APIs, Snowpipe  
 - **Data Visualization:** Power BI, Tableau, R  
 - **Power Platform:** Canvas Apps, Model-Driven Apps  
-- **Development Environments:** VS Code, Visual Studio, Jupyter Notebook, RStudio, Google Colab 
-- **Productivity & Collaboration:** Excel, PowerPoint, MS Word, Outlook, MS Teams, Jira  
+- **Development Environments:** VS Code, Visual Studio, Jupyter Notebook, RStudio, Google Colab, Snowsight
+- **Productivity & Collaboration:** Excel, PowerPoint, MS Word, Outlook, Office365, Jira  
  
 
 ---
@@ -25,9 +25,9 @@
 - Excel 2019  
 - R for Data Science: Analysis & Visualization  
 - SQL  
-- Python for Everybody  
+- Python for Data Science and Analytics  
 - UiPath  
-- Cloud Computing  
+- Snowflake Level Up Series  
 
 ---
 
@@ -35,11 +35,10 @@
 
 ### **Confidential Metropolitan Traffic Authority – University of New Haven, Connecticut**
 #### *Tunnels and Bridges Traffic Analysis (Jan 2025 – May 2025)*
-- Engineered ETL workflows using SSIS to integrate over 5 million records from Microsoft Access into SQL Server, enhancing data availability by 30%.
-- Built machine learning models in Python (Multiple Linear Regression, Random Forest) to forecast traffic volume and toll violations with 97% accuracy.
--	Designed Power BI Service dashboards and managed workspaces to track traffic across 8 facilities, optimizing DAX and data models for real-time insights and a 40% increase in stakeholder engagement.
--	Optimized model accuracy by 18% through Azure AutoML’s automated feature selection and hyperparameter tuning.
--	Translated stakeholder requirements and model outputs into 5+ strategic recommendations for infrastructure planning and traffic policy revisions.
+- Engineered ETL workflows using SSIS to load 5M+ records from Access to SQL Server and stage them in Snowflake, enhancing data availability by 30%..
+- Developed ML models in Python to forecast traffic and toll violations with 97% accuracy; optimized performance by 18% using Azure AutoML and stored predictions in Snowflake.
+-	Built Power BI dashboards connected to Snowflake to track 8 facilities, improving real-time insights and stakeholder engagement by 40%..
+-	Delivered 5+ data-driven recommendations for infrastructure planning and policy, leveraging Snowflake-powered analytics.
 
 
 ### **Confidential Fintech Client – University of New Haven, Connecticut**
