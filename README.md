@@ -23,12 +23,13 @@
 ---
 
 ## 🏆 Certifications
-- Excel 2019  
-- R for Data Science: Analysis & Visualization  
-- SQL  
-- Python for Data Science and Analytics  
-- UiPath  
-- Snowflake Level Up Series  
+•	Snowflake Level Up - 2025
+•	Career Essentials for Generative AI by Microsoft - 2025
+•	Databricks Lakehouse & Generative AI Fundamentals - 2025
+•	MLOps Fundamentals Google Cloud - 2025
+•	R for Data Science: Analysis & Visualization - 2024
+•	SQL  - 2024
+•	Python for Data Science and Analytics - 2020 
 
 ---
 
