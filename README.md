@@ -23,13 +23,13 @@
 ---
 
 ## 🏆 Certifications
-•	Snowflake Level Up - 2025
-•	Career Essentials for Generative AI by Microsoft - 2025
-•	Databricks Lakehouse & Generative AI Fundamentals - 2025
-•	MLOps Fundamentals Google Cloud - 2025
-•	R for Data Science: Analysis & Visualization - 2024
-•	SQL  - 2024
-•	Python for Data Science and Analytics - 2020 
+-	Snowflake Level Up - 2025
+-	Career Essentials for Generative AI by Microsoft - 2025
+-	Databricks Lakehouse & Generative AI Fundamentals - 2025
+-	MLOps Fundamentals Google Cloud - 2025
+-	R for Data Science: Analysis & Visualization - 2024
+-	SQL  - 2024
+-	Python for Data Science and Analytics - 2020 
 
 ---
 
