@@ -7,17 +7,18 @@
 ---
 
 ## 🛠️ Technical Skills  
-- **Programming Languages:** Python, R, SQL, DAX, Power Fx
-- **Databases:** Snowflake, SQL Server, Microsoft Dataverse, SharePoint, Microsoft Access Database, BigQuery  
-- **Cloud Platforms:** Microsoft Azure, Google Cloud Platform  
-- **Machine Learning & Predictive Modeling:** Logistic Regression, Random Forest, XGBoost, CHAID, Decision Trees, KNN, Naïve Bayes, ARIMA, Exponential Smoothing, Multiple Regression  
-- **AutoML & AI:** Azure AutoML, Google Vertex AI, Vertex AutoML Vision, Cortex AI, Microsoft Copilot  
-- **ETL Tools:** SSIS, Power Automate, APIs, Snowpipe  
-- **Data Visualization:** Power BI, Tableau, R  
-- **Power Platform:** Canvas Apps, Model-Driven Apps  
-- **Development Environments:** VS Code, Visual Studio, Jupyter Notebook, RStudio, Google Colab, Snowsight
-- **Productivity & Collaboration:** Excel, PowerPoint, MS Word, Outlook, Office365, Jira
-- **Version Control & CI/CD:** Git, GitHub, Git-based workflows, CI/CD principles (branching, merging, version control, reproducibility)
+- Languages: Python, R, SQL, Power Fx, DAX, JavaScript, Bash   
+- Databases: SQL Server, Snowflake, BigQuery, Microsoft Dataverse, SharePoint, MS Access   
+- Cloud & DevOps: Microsoft Azure, Google Cloud Platform, Databricks, Streamlit Cloud, Git, GitHub, CI/CD 
+workflows   
+- AI & ML: Generative AI (LLMs), LangChain, RAG (Retrieval-Augmented Generation), Prompt Engineering, 
+Hugging Face, Azure AutoML, Vertex AI, Microsoft Copilot. 
+- ETL & Data Engineering: SSIS, APIs, Power Automate, Snowpipe, PDF Parsing (pdfplumber), Secure Key 
+Handling   
+- Data Visualization: Power BI, Tableau, Looker Studio 
+- Power Platform: Canvas Apps, Model-Driven Apps   
+- IDEs: VS Code, Visual Studio, Jupyter Notebook, RStudio, Snowsight, Databricks Notebooks   
+- Productivity & Collaboration: Excel, PowerPoint, MS Word, Outlook, Office 365, Jira.
  
 
 ---
