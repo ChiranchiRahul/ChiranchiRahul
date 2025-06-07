@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 Re
+## 📊 Industry Projects
 
 ### **Confidential Metropolitan Traffic Authority – University of New Haven, Connecticut**
 #### *Tunnels and Bridges Traffic Analysis (Jan 2025 – May 2025)*
