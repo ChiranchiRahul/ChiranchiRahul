@@ -33,7 +33,18 @@
 
 ---
 
-## 📊 Industry Projects
+## 💡 AI and Data Innovation Prototypes
+
+### **🛡️PrivAI – AI-Powered PrivacyOps Assistant**
+#### *AI-Powered PrivacyOps Assistant (June 2025 – Present)*
+-  Prototyping a GenAI-powered assistant using GPT-3.5 and PDF parsing to automate privacy audits, DSAR generation, and regulatory Q&A across GDPR, CCPA, and DPDPA.
+-	Integrated a Retrieval-Augmented Generation (RAG) pipeline to ground LLM outputs in official legal texts, increasing factual accuracy and traceability.
+-	Cut DSAR drafting time by 90% through real-time LLM orchestration and dynamic prompt engineering.
+-	Deployed a secure Streamlit app with markdown UI, modular backend, and API-protected architecture on Streamlit Cloud.
+
+---
+
+## 📊 Re
 
 ### **Confidential Metropolitan Traffic Authority – University of New Haven, Connecticut**
 #### *Tunnels and Bridges Traffic Analysis (Jan 2025 – May 2025)*
