@@ -9,7 +9,7 @@
 ## 🛠️ Technical Skills  
 - Languages: Python, R, SQL, Power Fx, DAX, JavaScript, Bash   
 - Databases: SQL Server, Snowflake, BigQuery, Microsoft Dataverse, SharePoint, MS Access   
-- Cloud & DevOps: Microsoft Azure, Google Cloud Platform, Databricks, Streamlit Cloud, Git, GitHub, CI/CD 
+- Cloud & DevOps: Microsoft Azure, AWS, Google Cloud Platform, Databricks, Streamlit Cloud, Git, GitHub, CI/CD 
 workflows   
 - AI & ML: Generative AI (LLMs), LangChain, RAG (Retrieval-Augmented Generation), Prompt Engineering, 
 Hugging Face, Azure AutoML, Vertex AI, Microsoft Copilot. 
