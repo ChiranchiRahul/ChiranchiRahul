@@ -43,11 +43,13 @@ Handling
 
 ### **🛡️PrivAI – AI-Powered PrivacyOps Agent**
 #### *AI-Powered PrivacyOps Agent (June 2025 – Present)*
--	Prototyping a GenAI-powered assistant using GPT-3.5 and PDF parsing to automate privacy audits, DSAR generation, and regulatory Q&A across GDPR, CCPA, and DPDPA.
--	Integrated a Retrieval-Augmented Generation (RAG) pipeline to ground LLM outputs in official legal texts, increasing factual accuracy and traceability.
--	Cut DSAR drafting time by 90% through real-time LLM orchestration and prompt engineering.
--	Deployed a secure Streamlit app with markdown UI, modular backend, and API-protected architecture on Streamlit Cloud, with the full project maintained in a private GitHub repository (available upon request).
--	Received positive stakeholder feedback during pre-seed stage and MVP showcase.
+- Led end-to-end prototyping of a GenAI assistant to automate regulatory workflows across GDPR, CCPA, and DPDPA, including privacy audits, DSAR generation, and compliance Q&A. 
+- Increased answer traceability by 65% by integrating a RAG pipeline to LLaMA-3 8B, Sentence-Transformers, and ChromaDB to retrieve clause-level context from uploaded legal PDFs. 
+- Reduced DSAR response time by 90%, enabling real-time LLM-assisted drafting with parameterized prompt templates and role-specific flows. 
+- Deployed a secure, modular Streamlit app on Streamlit Cloud with markdown UI, token-based API control, and encrypted vector store. Codebase maintained in a private GitHub repo. 
+- Captured and used live user feedback to optimize retrieval ranking and prompt engineering, improving response helpfulness rating from 78% to 91%. 
+- Currently re-architecting the prototype into a production-grade MVP using React and FastAPI, with a modular API layer, scalable backend, and improved UX for privacy/legal teams. 
+- Received positive feedback in early-stage investor demos, the upgraded version is being positioned for integration with SaaS-based governance and compliance platforms.
 
 ### **GMP Audit AI Assistant**
 #### *Generative AI-Powered Pharma Compliance Agent (June 2024 – August 2024)*
