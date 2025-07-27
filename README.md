@@ -94,7 +94,7 @@ scripts and SQL queries, aligning with CI/CD practices for reproducible analytic
 
 ## 💼 Professional Experience
 
-### **Value Momentum – Hyderabad, India**
+### **Value Momentum – New Jersey, United States**
 #### *Software/ML Engineer – Data Capture Automation (Aug 2022 – Nov 2023)*
 - Architected a machine learning-based PDF parser that reduced document processing time by 40% across 30+ underwriting workflows, streamlining classification tasks. 
 - Designed and evaluated supervised learning models for document classification and metadata extraction using scikit-learn, NER, document intelligence service achieving 92% accuracy and reducing manual review by 60% 
