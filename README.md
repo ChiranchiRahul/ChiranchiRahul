@@ -99,7 +99,7 @@ scripts and SQL queries, aligning with CI/CD practices for reproducible analytic
 ## 💼 Professional Experience
 
 ### **Value Momentum – New Jersey, United States**
-#### *Software/ML Engineer – Data Capture Automation (Aug 2022 – Nov 2023)*
+#### *Software/ML Engineer – Document Intelligence Automation (Aug 2022 – Nov 2023)*
 - Architected a machine learning-based PDF parser that reduced document processing time by 40% across 30+ underwriting workflows, streamlining classification tasks. 
 - Designed and evaluated supervised learning models for document classification and metadata extraction using scikit-learn, NER, document intelligence service achieving 92% accuracy and reducing manual review by 60% 
 - Automated validation and exception handling processes using Power Automate, increasing processing speed by 30% and reducing manual effort by 50%. 
@@ -107,7 +107,7 @@ scripts and SQL queries, aligning with CI/CD practices for reproducible analytic
 - Led deployment of a document capture automation system and applied Git-based version control across Power Platform components, enhancing deployment efficiency by 25% and aligning with CI/CD practices. 
 
 
-#### *Software/ML Engineer – Digital Case Management (Jun 2021 – Jul 2022)*
+#### *Software/ML Engineer – Data Case Management (Jun 2021 – Jul 2022)*
 - Spearheaded for the development of a model-driven CRM case management system using Microsoft Dataverse, reducing average resolution time by 25% and enabling efficient case lifecycle tracking. 
 - Explored AI-driven enhancements for automating case triage using pattern detection and case categorization strategies. 
 - Refined workflow transitions with Power Automate to optimize role-based routing logic, increasing process efficiency by 20% across roles. 
