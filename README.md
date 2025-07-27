@@ -1,3 +1,7 @@
+## 🔒 Access to Private Repositories  
+Some of my advanced AI/ML and data engineering projects are hosted in private repositories.  
+**Access can be granted upon request — feel free to reach out!**
+
 ## 🎓 Education
 - **Master’s in Business Analytics**  
   *University of New Haven – West Haven, Connecticut (May 2025)*  
