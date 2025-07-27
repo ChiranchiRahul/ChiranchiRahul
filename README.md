@@ -7,18 +7,19 @@
 ---
 
 ## 🛠️ Technical Skills  
-- Languages: Python, R, SQL, Power Fx, DAX, JavaScript, Bash 
-- Databases: SQL Server, Snowflake, BigQuery, Microsoft Dataverse, SharePoint, MS Access    
-- Cloud & DevOps: Azure, AWS, Google Cloud Platform, Databricks, Streamlit Cloud, Git, GitHub,  
-CI/CD workflows    
-- AI & ML: Generative AI (LLMs), LangChain, RAG (Retrieval-Augmented Generation), Prompt Engineering,  
+- AI & ML: Generative AI (LLMs), LangChain, RAG (Retrieval-Augmented Generation), Prompt Engineering, 
 Hugging Face, TensorFlow, PyTorch, scikit-learn, MLflow, Azure AutoML, Vertex AI, Microsoft Copilot, Keras, 
-NLP 
-- ETL & Data Engineering: SSIS, APIs, Power Automate, Snowpipe, PDF Parsing (pdfplumber), Secure Key  
-Handling    
-- Data Visualization: Power BI, Tableau, Looker Studio  
-- Power Platform: Canvas Apps, Model-Driven Apps    
-- IDEs: VS Code, Visual Studio, Jupyter Notebook, RStudio, Databricks Notebooks, Azure AI Studio    
+NLP, FAISS, ChromaDB, SentenceTransformers, OpenRouter. 
+- Cloud & DevOps: Azure, AWS, Google Cloud Platform, Databricks, Streamlit Cloud, Git, GitHub, CI/CD 
+workflows, Docker, Kubernetes. 
+- Languages: Python, R, SQL, Power Fx, DAX, JavaScript, Bash 
+- Databases: SQL Server, Snowflake, BigQuery, Microsoft Dataverse, SharePoint, MS Access 
+- Frontend: React.js, Tailwind CSS 
+- ETL & Data Engineering: SSIS, APIs, Power Automate, Snowpipe, PDF Parsing (pdfplumber), Secure Key 
+Handling 
+- Data Visualization & BI: Power BI, Tableau, Looker Studio 
+- Power Platform: Canvas Apps, Model-Driven Apps 
+- IDEs: VS Code, Visual Studio, Jupyter Notebook, RStudio, Databricks Notebooks, Azure AI Studio 
 - Productivity & Collaboration: Excel, PowerPoint, MS Word, Outlook, Office 365, Jira 
  
 
